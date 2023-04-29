@@ -12,7 +12,7 @@
 import sys
 import copy
 import collections
-sys.path.append('/home/zj/tracking/codes/vot-toolkit-master/trax-master/support/python')
+sys.path.append('/kaggle/working/trax/support/python')
 try:
     import trax
 except ImportError:
