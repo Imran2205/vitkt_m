@@ -1,2 +1,2 @@
 # code path
-base_path = '/kaggle/working/vitkt_m'
+base_path = '/content/vitkt_m'
